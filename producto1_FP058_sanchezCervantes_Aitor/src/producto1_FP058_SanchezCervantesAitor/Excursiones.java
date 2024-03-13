@@ -9,7 +9,10 @@ public class Excursiones {
     private LocalDate fecha;
     private int duracion;
     private double precio;
-    private int alejandroconectado;
+
+
+    // me deja poner comentarios
+    
     //Métodos constructores
     /**
      * Método constructor de la clase Excursiones que recibe por parámetros el código, la descripción, la fecha, la duración y el precio de la excursión
