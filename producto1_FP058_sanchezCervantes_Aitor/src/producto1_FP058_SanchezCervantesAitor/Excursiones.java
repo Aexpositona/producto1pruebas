@@ -11,7 +11,7 @@ public class Excursiones {
     private double precio;
 
 
-    // me deja poner comentarios?
+    // me deja poner comentarios?????
 
     //Métodos constructores
     /**
